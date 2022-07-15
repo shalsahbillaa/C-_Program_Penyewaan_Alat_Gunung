@@ -1,0 +1,2 @@
+# C-_Program_Penyewaan_Alat_Gunung
+Program penyewaan alat gunung yang berisikan algoritma perulangan(loop), percabangan(if-else), pencarian(search), pengurutan(sorting) dan mencetak bukti penyewaan

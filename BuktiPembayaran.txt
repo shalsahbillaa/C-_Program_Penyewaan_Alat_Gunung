@@ -1,0 +1,124 @@
+
+ | Waktu Transaksi   : Thu Jan 02 15:48:51 2020
+	|
+ | Lama Peminjaman   : 1 hari	|
+ | Total Bayar       : Rp. 50000	|
+ | Kembalian         : Rp. 10000	|
+
+ | Waktu Transaksi   : Thu Jan 02 15:50:06 2020
+
+ | Lama Peminjaman   : 1 hari		|
+ | Total Bayar       : Rp. 20000	|
+ | Kembalian         : Rp. 10000	|
+
+ |==============================================|
+ | Waktu Transaksi   : Fri Jan 03 13:04:34 2020
+ | Lama Peminjaman   : 2 hari			|
+ | Total Bayar       : Rp. 100000		|
+ | Uang Tunai        : Rp. 110000		|
+ | Kembalian         : Rp. 10000		|
+ |==============================================|
+
+ |==============================================|
+ | Waktu Transaksi   : Fri Jan 03 13:05:11 2020
+ | Lama Peminjaman   : 2 hari			|
+ | Total Bayar       : Rp. 60000		|
+ | Uang Tunai        : Rp. 30000		|
+ | Kembalian         : Rp. -30000		|
+ |==============================================|
+
+ |==============================================|
+ | Waktu Transaksi   : Fri Jan 03 22:18:54 2020
+ | Lama Peminjaman   : 2 hari			|
+ | Total Bayar       : Rp. 100000		|
+ | Uang Tunai        : Rp. 120000		|
+ | Kembalian         : Rp. 20000		|
+ |==============================================|
+
+ |==============================================|
+ | Waktu Transaksi   : Sat Jan 04 18:23:17 2020
+ | Lama Peminjaman   : 2 hari			|
+ | Total Bayar       : Rp. 100000		|
+ | Uang Tunai        : Rp. 210000		|
+ | Kembalian         : Rp. 110000		|
+ |==============================================|
+
+ |==============================================|
+ | Waktu Transaksi   : Sun Jan 05 10:24:33 2020
+ | Lama Peminjaman   : 2 hari			|
+ | Total Bayar       : Rp. 60000		|
+ | Uang Tunai        : Rp. 100000		|
+ | Kembalian         : Rp. 40000		|
+ |==============================================|
+
+ |==============================================|
+ | Waktu Transaksi   : Sun Jan 05 11:16:07 2020
+ | Lama Peminjaman   : 2 hari			|
+ | Total Bayar       : Rp. 60000		|
+ | Uang Tunai        : Rp. 76000		|
+ | Kembalian         : Rp. 16000		|
+ |==============================================|
+
+ |==============================================|
+ | Waktu Transaksi   : Sun Jan 05 11:24:14 2020
+ | Lama Peminjaman   : 10 hari			|
+ | Total Bayar       : Rp. 100000		|
+ | Uang Tunai        : Rp. 3000000		|
+ | Kembalian         : Rp. 2900000		|
+ |==============================================|
+
+ |==============================================|
+ | Waktu Transaksi   : Sun Jan 05 11:26:29 2020
+ | Lama Peminjaman   : 2 hari			|
+ | Total Bayar       : Rp. 130000		|
+ | Uang Tunai        : Rp. 0		|
+ | Kembalian         : Rp. -130000		|
+ |==============================================|
+
+ |==============================================|
+ | Waktu Transaksi   : Sun Jan 05 11:26:35 2020
+ | Lama Peminjaman   : 2 hari			|
+ | Total Bayar       : Rp. 150000		|
+ | Uang Tunai        : Rp. 0		|
+ | Kembalian         : Rp. -150000		|
+ |==============================================|
+
+ |==============================================|
+ | Waktu Transaksi   : Sun Jan 05 11:26:37 2020
+ | Lama Peminjaman   : 2 hari			|
+ | Total Bayar       : Rp. 170000		|
+ | Uang Tunai        : Rp. 0		|
+ | Kembalian         : Rp. -170000		|
+ |==============================================|
+
+ |==============================================|
+ | Waktu Transaksi   : Sun Jan 05 11:26:39 2020
+ | Lama Peminjaman   : 2 hari			|
+ | Total Bayar       : Rp. 190000		|
+ | Uang Tunai        : Rp. 0		|
+ | Kembalian         : Rp. -190000		|
+ |==============================================|
+
+ |==============================================|
+ | Waktu Transaksi   : Sun Jan 05 11:26:42 2020
+ | Lama Peminjaman   : 2 hari			|
+ | Total Bayar       : Rp. 210000		|
+ | Uang Tunai        : Rp. 0		|
+ | Kembalian         : Rp. -210000		|
+ |==============================================|
+
+ |==============================================|
+ | Waktu Transaksi   : Sun Jan 05 11:26:44 2020
+ | Lama Peminjaman   : 2 hari			|
+ | Total Bayar       : Rp. 230000		|
+ | Uang Tunai        : Rp. 0		|
+ | Kembalian         : Rp. -230000		|
+ |==============================================|
+
+ |==============================================|
+ | Waktu Transaksi   : Sun Jan 05 11:27:55 2020
+ | Lama Peminjaman   : 3 hari			|
+ | Total Bayar       : Rp. 120000		|
+ | Uang Tunai        : Rp. 130000		|
+ | Kembalian         : Rp. 10000		|
+ |==============================================|
